@@ -1,0 +1,25 @@
+{
+  "name": "webpack-tut",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trilamanila/webpack-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trilamanila/webpack-tut/issues"
+  },
+  "homepage": "https://github.com/trilamanila/webpack-tut#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
